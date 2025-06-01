@@ -1,0 +1,23 @@
+/*
+ * Custom Estimation Module - Custom Styles
+ *
+ * Add your module-specific CSS styles here.
+ * This file will be loaded on your module's pages in the admin area.
+ */
+
+/* Example: Style for a custom class you might use in your views */
+.custom-estimation-highlight {
+    background-color: #f0f8ff; /* AliceBlue */
+    border: 1px solid #d1e0ff;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+/* Example: Styling for tables specific to your module */
+.table-custom-estimation-module th {
+    /* background-color: #fafafa; */
+}
+
+/* Add more styles as needed */
+
