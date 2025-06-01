@@ -44,8 +44,6 @@ define('CUSTOM_ESTIMATION_TABLE_ITEM_PACKAGE_ITEMS', db_prefix() . 'custom_item_
 
 define('CUSTOM_ESTIMATION_TABLE_PDF_TEMPLATES', db_prefix() . 'custom_estimate_pdf_templates'); 
 
-
-
 /**
 
  * Register activation module hook
